@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/ktsirakos"><img src="https://api.daily.dev/devcards/7ac217554a9d4b0493be8b29014cdccb.png?r=bco" width="400" alt="Konstantinos Tsirakos's Dev Card"/></a>
-
 <!--
 **Ktsirakos/Ktsirakos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
